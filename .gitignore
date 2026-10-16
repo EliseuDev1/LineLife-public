@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.lvd
+*.pdf
+*.xlsx
+*.log
+.pytest_cache/
+.mypy_cache/
+.coverage
+build/
+dist/
