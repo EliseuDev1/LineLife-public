@@ -1,0 +1,742 @@
+{
+  "cables": [
+    {
+      "specification": "Ø1/8 - 6X19 SEALE IPS - AF",
+      "diameter_mm": 3.2,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 598.1184000000001,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE IPS - AF",
+      "diameter_mm": 4.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 934.5600000000001,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE IPS - AF",
+      "diameter_mm": 4.8,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1345.7664,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE IPS - AF",
+      "diameter_mm": 6.4,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 2392.4736000000003,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1/8 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 3.2,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 662.3232000000002,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 4.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1034.88,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 4.8,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1490.2272,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 6.4,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 2649.2928000000006,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø5/16 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 8.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 4139.52,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø3/8 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 9.5,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 5837.370000000001,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø7/16 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 11.5,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 8553.93,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1/2 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 13.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 10930.920000000002,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø9/16 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 14.5,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 13598.970000000001,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø5/8 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 16.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 16558.08,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø3/4 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 19.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 23349.480000000003,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø7/8 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 22.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 31305.120000000003,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1'' - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 26.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 43723.68000000001,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1.1/8 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 29.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 54395.880000000005,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1.1/4 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 32.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 66232.32,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1.1/2 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 38.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 93397.92000000001,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1.5/8 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 42.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 114095.51999999999,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1.3/4 - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 45.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 130977.0,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø2'' - 6X19 SEALE EIPS - AF",
+      "diameter_mm": 52.0,
+      "metallic_area_factor": 0.33,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 174894.72000000003,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de fibra"
+    },
+    {
+      "specification": "Ø1/8 - 6X19 SEALE IPS - AA",
+      "diameter_mm": 3.2,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 645.24288,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE IPS - AA",
+      "diameter_mm": 4.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1008.192,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE IPS - AA",
+      "diameter_mm": 4.8,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1451.7964799999997,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE IPS - AA",
+      "diameter_mm": 6.4,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 2580.97152,
+      "grade_n_mm2": 1770.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1/8 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 3.2,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 714.5062400000002,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 4.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1116.416,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 4.8,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 1607.63904,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 6.4,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 2858.0249600000006,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø5/16 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 8.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 4465.664,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø3/8 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 9.5,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 6297.284,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø7/16 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 11.5,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 9227.876,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1/2 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 13.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 11792.143999999998,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø9/16 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 14.5,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 14670.403999999999,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø5/8 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 16.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 17862.656,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø3/4 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 19.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 25189.136,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø7/8 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 22.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 33771.583999999995,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1'' - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 26.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 47168.575999999994,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1.1/8 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 29.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 58681.615999999995,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1.1/4 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 32.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 71450.624,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1.1/2 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 38.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 100756.544,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1.5/8 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 42.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 123084.86399999999,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø1.3/4 - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 45.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 141296.4,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    },
+    {
+      "specification": "Ø2'' - 6X19 SEALE EIPS - AA",
+      "diameter_mm": 52.0,
+      "metallic_area_factor": 0.356,
+      "elastic_modulus_kgf_mm2": 9500.0,
+      "min_breaking_load_kgf": 188674.30399999997,
+      "grade_n_mm2": 1960.0,
+      "core_type": "6 x 19 com alma de aço"
+    }
+  ],
+  "excel_summary_baseline": [
+    {
+      "specification": "Ø1/8 - 6X19 SEALE IPS - AF",
+      "excel_f2_mm": 912.6439676995968,
+      "excel_T_kgf": 1125.479915455307,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.5314340947239689
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE IPS - AF",
+      "excel_f2_mm": 788.9155144750389,
+      "excel_T_kgf": 1290.2487899073444,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.7243254225931983
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE IPS - AF",
+      "excel_f2_mm": 702.3079019473809,
+      "excel_T_kgf": 1441.2073672521665,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.9337770750963228
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE IPS - AF",
+      "excel_f2_mm": 587.9284606383571,
+      "excel_T_kgf": 1710.3935750278579,
+      "excel_status": "REPROVADO",
+      "excel_FS": 1.3987854228001488
+    },
+    {
+      "specification": "Ø1/8 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 912.6439771178941,
+      "excel_T_kgf": 1125.4799398188643,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.5884806797237052
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 788.9155144750412,
+      "excel_T_kgf": 1290.24878990735,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.80207786908625
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 702.3079019473809,
+      "excel_T_kgf": 1441.207367252166,
+      "excel_status": "REPROVADO",
+      "excel_FS": 1.0340130323100527
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 587.9284606383571,
+      "excel_T_kgf": 1710.3935750278579,
+      "excel_status": "REPROVADO",
+      "excel_FS": 1.5489375303323685
+    },
+    {
+      "specification": "Ø5/16 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 515.1657570174378,
+      "excel_T_kgf": 1944.9872463210907,
+      "excel_status": "APROVADO",
+      "excel_FS": 2.128301873356666
+    },
+    {
+      "specification": "Ø3/8 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 467.28391929962805,
+      "excel_T_kgf": 2139.761049300984,
+      "excel_status": "APROVADO",
+      "excel_FS": 2.728047602281082
+    },
+    {
+      "specification": "Ø7/16 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 421.4120417550266,
+      "excel_T_kgf": 2368.3223084580627,
+      "excel_status": "APROVADO",
+      "excel_FS": 3.611809916855947
+    },
+    {
+      "specification": "Ø1/2 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 395.6749983235293,
+      "excel_T_kgf": 2519.9745102637303,
+      "excel_status": "APROVADO",
+      "excel_FS": 4.337710542499105
+    },
+    {
+      "specification": "Ø9/16 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 374.9911435487906,
+      "excel_T_kgf": 2657.0527311184355,
+      "excel_status": "APROVADO",
+      "excel_FS": 5.118065532058814
+    },
+    {
+      "specification": "Ø5/8 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 358.04120389046074,
+      "excel_T_kgf": 2781.2718717473576,
+      "excel_status": "APROVADO",
+      "excel_FS": 5.953420148601743
+    },
+    {
+      "specification": "Ø3/4 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 332.03238664818196,
+      "excel_T_kgf": 2996.6912277011456,
+      "excel_status": "APROVADO",
+      "excel_FS": 7.7917537129483
+    },
+    {
+      "specification": "Ø7/8 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 313.16075364658644,
+      "excel_T_kgf": 3175.5183531213725,
+      "excel_status": "APROVADO",
+      "excel_FS": 9.858270845523116
+    },
+    {
+      "specification": "Ø1'' - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 295.02443691845843,
+      "excel_T_kgf": 3369.0377436448025,
+      "excel_status": "APROVADO",
+      "excel_FS": 12.978091469137839
+    },
+    {
+      "specification": "Ø1.1/8 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 284.9346760099516,
+      "excel_T_kgf": 3487.407975827566,
+      "excel_status": "APROVADO",
+      "excel_FS": 15.597796523101602
+    },
+    {
+      "specification": "Ø1.1/4 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 276.93168094320663,
+      "excel_T_kgf": 3587.454605723343,
+      "excel_status": "APROVADO",
+      "excel_FS": 18.462204342414392
+    },
+    {
+      "specification": "Ø1.1/2 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 265.20443743116596,
+      "excel_T_kgf": 3745.0044664193124,
+      "excel_status": "APROVADO",
+      "excel_FS": 24.93933474244958
+    },
+    {
+      "specification": "Ø1.5/8 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 259.55263023096074,
+      "excel_T_kgf": 3826.034971128513,
+      "excel_status": "APROVADO",
+      "excel_FS": 29.82082517827766
+    },
+    {
+      "specification": "Ø1.3/4 - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 256.1078883134019,
+      "excel_T_kgf": 3877.1821950689327,
+      "excel_status": "APROVADO",
+      "excel_FS": 33.78149217918591
+    },
+    {
+      "specification": "Ø2'' - 6X19 SEALE EIPS - AF",
+      "excel_f2_mm": 249.95642191880103,
+      "excel_T_kgf": 3972.0358014441285,
+      "excel_status": "APROVADO",
+      "excel_FS": 44.031506447251274
+    },
+    {
+      "specification": "Ø1/8 - 6X19 SEALE IPS - AA",
+      "excel_f2_mm": 890.1046802509248,
+      "excel_T_kgf": 1151.9777573638626,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.5601174813275446
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE IPS - AA",
+      "excel_f2_mm": 769.9017010018752,
+      "excel_T_kgf": 1320.4103010156052,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.7635444825176995
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE IPS - AA",
+      "excel_f2_mm": 685.7546805217219,
+      "excel_T_kgf": 1474.5058736930068,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.9845986414173246
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE IPS - AA",
+      "excel_f2_mm": 574.6526151988564,
+      "excel_T_kgf": 1748.705423410564,
+      "excel_status": "REPROVADO",
+      "excel_FS": 1.4759327016703803
+    },
+    {
+      "specification": "Ø1/8 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 890.1046883550857,
+      "excel_T_kgf": 1151.977779459471,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.6202430747711639
+    },
+    {
+      "specification": "Ø5/32 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 769.9017010018752,
+      "excel_T_kgf": 1320.4103010156073,
+      "excel_status": "REPROVADO",
+      "excel_FS": 0.8455068845958692
+    },
+    {
+      "specification": "Ø3/16 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 685.7546805217219,
+      "excel_T_kgf": 1474.505873693007,
+      "excel_status": "REPROVADO",
+      "excel_FS": 1.090290021004495
+    },
+    {
+      "specification": "Ø1/4 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 574.6526151988564,
+      "excel_T_kgf": 1748.705423410564,
+      "excel_status": "REPROVADO",
+      "excel_FS": 1.6343661555220035
+    },
+    {
+      "specification": "Ø5/16 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 504.02427818820183,
+      "excel_T_kgf": 1986.969215880722,
+      "excel_status": "APROVADO",
+      "excel_FS": 2.2474751819547434
+    },
+    {
+      "specification": "Ø3/8 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 457.58958322257286,
+      "excel_T_kgf": 2184.2112750442107,
+      "excel_status": "APROVADO",
+      "excel_FS": 2.8830928912188387
+    },
+    {
+      "specification": "Ø7/16 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 413.15696148650034,
+      "excel_T_kgf": 2414.8905894900113,
+      "excel_status": "APROVADO",
+      "excel_FS": 3.821239786250022
+    },
+    {
+      "specification": "Ø1/2 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 388.2608968224881,
+      "excel_T_kgf": 2567.419414629357,
+      "excel_status": "APROVADO",
+      "excel_FS": 4.592994791893929
+    },
+    {
+      "specification": "Ø9/16 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 368.2770154404122,
+      "excel_T_kgf": 2704.8818935074646,
+      "excel_status": "APROVADO",
+      "excel_FS": 5.423676366503621
+    },
+    {
+      "specification": "Ø5/8 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 351.9211315128566,
+      "excel_T_kgf": 2829.081496227892,
+      "excel_status": "APROVADO",
+      "excel_FS": 6.313941830172397
+    },
+    {
+      "specification": "Ø3/4 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 326.87072675928283,
+      "excel_T_kgf": 3043.541777364961,
+      "excel_status": "APROVADO",
+      "excel_FS": 8.276257676938563
+    },
+    {
+      "specification": "Ø7/8 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 308.74166791322455,
+      "excel_T_kgf": 3220.5674029499487,
+      "excel_status": "APROVADO",
+      "excel_FS": 10.486221766098167
+    },
+    {
+      "specification": "Ø1'' - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 291.3701129548664,
+      "excel_T_kgf": 3410.958769790438,
+      "excel_status": "APROVADO",
+      "excel_FS": 13.828538889931504
+    },
+    {
+      "specification": "Ø1.1/8 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 281.7338266609452,
+      "excel_T_kgf": 3526.737769306174,
+      "excel_status": "APROVADO",
+      "excel_FS": 16.639064154618055
+    },
+    {
+      "specification": "Ø1.1/4 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 274.10811950348585,
+      "excel_T_kgf": 3624.1515283451727,
+      "excel_status": "APROVADO",
+      "excel_FS": 19.715131511795573
+    },
+    {
+      "specification": "Ø1.1/2 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 262.96777110793073,
+      "excel_T_kgf": 3776.6539956382862,
+      "excel_status": "APROVADO",
+      "excel_FS": 26.678786067340354
+    },
+    {
+      "specification": "Ø1.5/8 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 257.6159460429428,
+      "excel_T_kgf": 3854.621842655571,
+      "excel_status": "APROVADO",
+      "excel_FS": 31.931761149156703
+    },
+    {
+      "specification": "Ø1.3/4 - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 254.3603634519898,
+      "excel_T_kgf": 3903.6605541348404,
+      "excel_status": "APROVADO",
+      "excel_FS": 36.19587257666034
+    },
+    {
+      "specification": "Ø2'' - 6X19 SEALE EIPS - AA",
+      "excel_f2_mm": 248.56002849020683,
+      "excel_T_kgf": 3994.2234907472275,
+      "excel_status": "APROVADO",
+      "excel_FS": 47.23679194143023
+    }
+  ]
+}

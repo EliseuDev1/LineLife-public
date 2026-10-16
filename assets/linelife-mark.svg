@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">LineLife</title>
+  <desc id="desc">Linha de vida horizontal com dois pontos de ancoragem e escudo central</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2438"/>
+      <stop offset="1" stop-color="#08111f"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#73dfce"/>
+      <stop offset="1" stop-color="#2bb3bd"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9af1dd"/>
+      <stop offset="1" stop-color="#2bb3bd"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".32"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#teal)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 151V99M213 151V99" stroke-width="10"/>
+    <path d="M31 151h24M201 151h24" stroke-width="10"/>
+    <path d="M43 100c38 24 61 26 85 26s47-2 85-26" stroke-width="9"/>
+  </g>
+  <g fill="url(#teal)" stroke="#d9fff6" stroke-width="4">
+    <circle cx="43" cy="95" r="13"/>
+    <circle cx="213" cy="95" r="13"/>
+  </g>
+  <path d="M128 49l48 18v45c0 38-22 61-48 75-26-14-48-37-48-75V67l48-18z" fill="url(#shield)" stroke="#d9fff6" stroke-width="5" filter="url(#shadow)"/>
+  <path d="M103 115l17 18 34-37" fill="none" stroke="#082033" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 68v17" stroke="#effffb" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+</svg>
